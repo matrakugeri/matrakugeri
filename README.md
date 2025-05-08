@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Geraldo Matraku</h1>
 
 - 🔭 Currently working on **personal Angular projects** to sharpen my skills and gain deep experience.
-- 🚀 Skilled in **Angular**, **Node.js**, **NestJS**, and **SCSS**.
 - 📚 Constantly exploring **new industry trends** and **modern web development tools**.
-- 📫 How to reach me  <a href="mailto:matrakugeri@gmail.com">matrakugeri@gmail.com</a>;
+- 📫 How to reach me  <a href="mailto:matrakugeri@gmail.com">matrakugeri@gmail.com</a>.
 
 ### 🌐 Connect With Me
 <p align="left">
