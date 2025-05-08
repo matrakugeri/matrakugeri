@@ -29,6 +29,10 @@
   </a>
 </p>
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matrakugeri&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+
 
 
 
