@@ -2,7 +2,6 @@
 
 - 🔭 Currently working on **personal Angular projects** to sharpen my skills and gain deep experience.
 - 📚 Constantly exploring **new industry trends** and **modern web development tools**.
-- 📫 How to reach me  <a href="mailto:geraldomatraku28@gmail.com">geraldomatraku28@gmail.com</a>.
 
 ### 🌐 Connect With Me
 <p align="left">
