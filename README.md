@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Geraldo Matraku</h1>
 
-- 🔭 Currently working on **personal Angular projects** to sharpen my skills and gain deep experience.
+- 🔭 Currently working on **Angular projects**.
 - 📚 Constantly exploring **new industry trends** and **modern web development tools**.
 
 ### 🌐 Connect With Me
